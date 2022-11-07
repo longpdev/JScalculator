@@ -1,0 +1,19 @@
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title{
+    text-align: center;
+    font-size: 2em;
+    padding: 5px;
+    font-weight: bold;
+    background-color: rgb(132,228,235);
+    color: rgb(6,76,206);
+    
+}
